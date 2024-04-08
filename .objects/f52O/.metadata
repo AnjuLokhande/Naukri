@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome: Home | Mynaukri",
+  "Type": "App",
+  "Id": "f52OFbQGsU-LYyZKeeysNg",
+  "Reference": "I7JZkLZvJUmOK7yS3o1vXQ/f52OFbQGsU-LYyZKeeysNg",
+  "Created": "2024-04-08T14:54:53.3332976Z",
+  "Updated": "2024-04-08T14:54:53.3332976Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hipdNni4p0qSa8iNk12L_g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.naukri.com/uipath-orchestrator-rpa-developer-rpa-ui-path-jobs?k=uipath%20orchestrator%2C%20rpa%20developer%2C%20rpa%20ui%20path&amp;nignbevent_src=jobsearchDeskGNB" CvElementArea="1533, 435, 164, 70" CvTextArea="1589, 457, 82, 23" CvTextArgument="Search" CvType="Button" DesignTimeRectangle="1537, 437, 156, 65" DesignTimeScaleFactor="1.6124999523162842" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='' class='nI-gNb-sb__icon-wrapper' aaname='Search' check:innerText='Search' /&gt;" Guid="b3066036-dc4f-47cf-8c59-0ab069c418eb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Uipath Orchestrator, Rpa Developer, Rpa Ui Path Jobs, 83 Uipath Orchestrator, Rpa Developer, Rpa Ui Path Job Vacancies In April 2024 - Naukri.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvElementArea="1533, 435, 164, 70" CvTextArea="1589, 457, 82, 23" CvTextArgument="Search" CvType="Button" DesignTimeRectangle="1593, 453, 78, 32" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Search' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Search' tag='SPAN' type='' class='' check:innerText='Search' /&gt;" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5622cf18d46df8d20daa86ee8e34f376.png" xmlns="">06eqHA6oJkU2wHaU8QpnJow</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

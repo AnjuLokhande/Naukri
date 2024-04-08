@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ItkKbbUJ_0CeBCNqN1NJEA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.naukri.com/mnjuser/homepage" CvElementArea="906, 306, 374, 68" CvType="InputBox" DesignTimeRectangle="911, 308, 209, 65" DesignTimeScaleFactor="1.6124999523162842" ElementType="Text" FullSelectorArgument="&lt;webctrl class='nI-gNb-sb__placeholder' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl class='nI-gNb-sb__placeholder' tag='SPAN' type='' aaname='Search jobs here' check:innerText='Search jobs here' /&gt;" Guid="d0a19443-07ce-4998-9bc3-072d925f62b8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Home | Mynaukri' /&gt;" SearchSteps="FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="714c54d54d0f9d533c6fe72704aca9ee.png" xmlns="">0UiuWdV5R6U6WpT6CMrQ9rQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

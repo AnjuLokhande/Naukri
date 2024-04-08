@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xdbu8nKrHUCI-vvTLe2IWw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.naukri.com/uipath-orchestrator-rpa-developer-rpa-ui-path-jobs?k=uipath%20orchestrator%2C%20rpa%20developer%2C%20rpa%20ui%20path&amp;nignbevent_src=jobsearchDeskGNB" CvTextArea="920, 458, 208, 27" CvTextArgument="Select experience" CvType="Text" DesignTimeRectangle="923, 447, 274, 45" DesignTimeScaleFactor="1.6124999523162842" ElementType="InputBox" FullSelectorArgument="&lt;webctrl class='dropdownMainContainer' parentid='root' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl class='dropdownMainContainer' parentid='root' tag='DIV' type='' aaname='' /&gt;" Guid="aa1e7261-0ec2-4dd4-9c31-013aaee7d2f1" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Uipath Orchestrator, Rpa Developer, Rpa Ui Path Jobs, 83 Uipath Orchestrator, Rpa Developer, Rpa Ui Path Job Vacancies In April 2024 - Naukri.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvElementArea="297, 416, 588, 111" CvTextArea="379, 458, 445, 28" CvTextArgument="uipath orchestrator, rpa developer, rpa" CvType="Button" DesignTimeRectangle="302, 437, 504, 65" ElementType="Text" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' tag='SPAN' class='nI-gNb-sb__placeholder nI-gNb-sb__placeholder--prefill' aaname='uipath orchestrator, rpa developer, rpa ui path' check:innerText='uipath orchestrator, rpa developer, rpa ui path' /&gt;" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1091ebbbd7465c282ea3f71753f2f368.png" xmlns="">090weerwaZUCr9JkY39o7yg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

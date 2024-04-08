@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3x0bfLlyO0u9g3UQ4fCiEQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.naukri.com/uipath-orchestrator-rpa-developer-rpa-ui-path-jobs?k=uipath%20orchestrator%2C%20rpa%20developer%2C%20rpa%20ui%20path&amp;experience=1&amp;nignbevent_src=jobsearchDeskGNB" DesignTimeRectangle="1204, 639, 256, 61" DesignTimeScaleFactor="1.6124999523162842" ElementType="ListItem" FullSelectorArgument="&lt;webctrl idx='3' parentid='jobs-list-header' tag='LI' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' parentid='jobs-list-header' tag='LI' class='styles_ss__menu-item__T4rgB' aaname='' check:innerText='Date' /&gt;" Guid="95ea6a7a-436e-475f-8d02-b83387d15f7a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Uipath Orchestrator, Rpa Developer, Rpa Ui Path Jobs, 8 Uipath Orchestrator, Rpa Developer, Rpa Ui Path Job Vacancies In April 2024 - Naukri.com' /&gt;" SearchSteps="FuzzySelector" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bde8f8476852cc0efdf8d18c6796579a.png" xmlns="">06OBxf2JcGkesjllfSq6rHw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

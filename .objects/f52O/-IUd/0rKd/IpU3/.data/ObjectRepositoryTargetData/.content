@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="O4GIR-Yn9kmE-h3nZnnKzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.naukri.com/mnjuser/homepage" CvTextArea="383, 636, 205, 25" CvTextArgument="Uipath Orchestrator" CvType="Text" DesignTimeRectangle="384, 633, 203, 28" DesignTimeScaleFactor="1.6124999523162842" FullSelectorArgument="&lt;webctrl aaname='ator' class='pre-wrap' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='ator' class='pre-wrap' tag='SPAN' type='' check:innerText='Uipath Orchestrator' /&gt;" Guid="3ad3131a-f757-4cf0-9ebf-879a6aa4d3ef" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Home | Mynaukri' /&gt;" SearchSteps="FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d73e64294e1df3defbe37f2dcd2d0942.png" xmlns="">0rHBOdnL-G0esP5crlij96A</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

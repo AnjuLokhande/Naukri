@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Rpa Ui Path",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "UJJbu0iIdkaGwS48iqRCTA",
+  "Reference": "I7JZkLZvJUmOK7yS3o1vXQ/UJJbu0iIdkaGwS48iqRCTA",
+  "ParentRef": "I7JZkLZvJUmOK7yS3o1vXQ/0rKdSvOBr0ilVHMWR0nmXw",
+  "Created": "2024-04-08T14:55:28.6367127Z",
+  "Updated": "2024-04-08T14:55:28.6367127Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

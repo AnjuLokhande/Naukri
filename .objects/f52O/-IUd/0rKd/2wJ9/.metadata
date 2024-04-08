@@ -1,0 +1,14 @@
+﻿{
+  "Name": "1 year",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "2wJ9huSndUi-k16P6_3S4A",
+  "Reference": "I7JZkLZvJUmOK7yS3o1vXQ/2wJ9huSndUi-k16P6_3S4A",
+  "ParentRef": "I7JZkLZvJUmOK7yS3o1vXQ/0rKdSvOBr0ilVHMWR0nmXw",
+  "Created": "2024-04-08T14:57:58.8180501Z",
+  "Updated": "2024-04-08T14:57:58.8180501Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

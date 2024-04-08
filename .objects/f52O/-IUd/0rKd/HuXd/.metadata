@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Rpa Developer",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "HuXd2F6ny0-aoHlG4Svcbw",
+  "Reference": "I7JZkLZvJUmOK7yS3o1vXQ/HuXd2F6ny0-aoHlG4Svcbw",
+  "ParentRef": "I7JZkLZvJUmOK7yS3o1vXQ/0rKdSvOBr0ilVHMWR0nmXw",
+  "Created": "2024-04-08T14:55:24.9068597Z",
+  "Updated": "2024-04-08T14:55:24.9068597Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
